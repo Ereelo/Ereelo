@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ereelo
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning graphics.
+- 💞️ I’m looking to collaborate on illustration.
 - 📫 How to reach me ereelo.zorric@gmail.com 
 
 <!---
